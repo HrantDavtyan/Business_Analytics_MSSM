@@ -1,0 +1,8 @@
+numpy
+pandas
+sklearn
+statsmodels
+pandas_datareader
+googlemaps
+pafy
+quandl
