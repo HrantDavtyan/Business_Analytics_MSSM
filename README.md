@@ -5,7 +5,7 @@ This repository include the materials used during the Business Analytics course,
 ## Toolbox
 During the course students will learn and use several tools necessary for completing a Business Analytics project as listed below:
 
-- [Sublime Text Editor](https://www.sublimetext.com/3) - A simple yet powerful (user friendly interface + amazing performance) text editor. During the course Sublime will be used for creating and editing HTML, CSS, XML and JSON documents.
+- [Sublime Text Editor](https://www.sublimetext.com/3) - A simple yet powerful (user friendly interface + amazing performance) text editor. During the course Sublime will be used for developing and editing Python code and JSON documents.
 - [JSON formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - A google chrome extension which makes the JSON representation indented and highlighted (when viewed directly inside the browser).
 - [Anaconda Python 2.7](https://www.continuum.io/downloads) - Python powered open data science platform, which comes toegther with Jupyter notebooks, Spider IDE and some of the most popular Python libraries preinstalled. During the course several python packages will be used. The list of packages (including thsoe preinstalled by Anaconda) is available below.
 
