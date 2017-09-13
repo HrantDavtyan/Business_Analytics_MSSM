@@ -12,12 +12,14 @@ During the course students will learn and use several tools necessary for comple
 ## Required packages
 - numpy
 - pandas
+- lifetimes
 - sklearn
 - statsmodels
 - pandas_datareader
 - googlemaps
 - pafy
 - quandl
+- pytrends
  
 *The packages **json** and **csv** are also required, yet they come preinstalled with Python 2.7.*
 *The list of packages will be updated during the course based on demand.
