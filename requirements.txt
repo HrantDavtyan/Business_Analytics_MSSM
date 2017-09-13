@@ -1,8 +1,10 @@
 numpy
 pandas
+lifetimes
 sklearn
 statsmodels
 pandas_datareader
 googlemaps
 pafy
 quandl
+pytrends
